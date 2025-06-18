@@ -6,6 +6,11 @@
 #
 <h3>Estatisticas</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadu710&show_icons=true&theme=holi&hide=issues&line_height=24&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadu710&size_weight=0.5&count_weight=0.5&theme=holi&hide_title=true&exclude_repo=repo2)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=cadu710&theme=holi&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadu710&theme=holi&th&langs_count=8&card_width=320" />
+</a>
+
 
